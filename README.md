@@ -1,4 +1,11 @@
-advanced-js
+What is this
 ===========
 
-Javascript features you must learn/understand to become a master. For those coming from other O-O languages
+Notes on the characteristics of the Javascript language as I learn from "The secrets of the Javascript Ninja" by John Resig
+
+
+
+
+
+
+
