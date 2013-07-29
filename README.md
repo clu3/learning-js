@@ -26,7 +26,7 @@ What's different about functions, coming from other world: function scope, what 
     
 4. Some other characteristics
   - 2 types: named functions vs anonymous functions (a.k.a *lambda* sometimes)
-  - Every named function foo creates a *window.foo reference*
+  - Every top-level named function foo creates a *window.foo reference*. This is because window is like the global class 
   - Arguments passed can be redundant, ie. more than the number of actuall arguments declared.
 
 
