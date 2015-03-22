@@ -1,8 +1,9 @@
 What is this
 ===========
 
-Notes on the characteristics of the Javascript language as I learn from "The secrets of the Javascript Ninja" by John Resig
+I come from C, Java, PHP background. I still code in JS on almost daily basis, but JS is sometimes quite cryptic and I don't really know what is going on.
 
+This is notes on the characteristics of the Javascript language as I learn from "The secrets of the Javascript Ninja" by John Resig and watching other random tutorials on the web. 
 
 Functions
 ===========
@@ -38,3 +39,12 @@ What's different about functions, coming from other world: function scope, what 
     - **apply**
     - **call**
 
+
+Event Loop & Callback Queue
+===========
+
+Loop: Must watch video by Philip Roberts at EU JsConf 2014 : What the heck is an event loop anyway?
+
+http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
+
+Queue: How are callbacks registered and maintained by Browser/jQuery
